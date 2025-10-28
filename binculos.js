@@ -1,3 +1,3 @@
-document.getElementById('bking.html').addEventListener('click', function() {
+document.getElementById('bking').addEventListener('click', function() {
     window.location.href = 'bking.html';
 });
