@@ -1,3 +1,7 @@
 document.getElementById('bking').addEventListener('click', function() {
     window.location.href = 'bking.html';
 });
+
+document.getElementById('tproducto').addEventListener('click', function() {
+    window.location.href = 'bk001.html';
+});
