@@ -3,5 +3,5 @@ document.getElementById('bking').addEventListener('click', function() {
 });
 
 document.getElementById('tproducto').addEventListener('click', function() {
-    window.location.href = 'bk001.html';
+    window.location.href = 'bkp001.html';
 });
